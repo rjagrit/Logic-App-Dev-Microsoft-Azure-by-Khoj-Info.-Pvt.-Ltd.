@@ -3,7 +3,7 @@
 ## Logic App-2
 
 **What it does:**  
-Address validation using an HTTP trigger.
+Address validation using an HTTP trigger (if condition)
 
 ### 🔹 Steps:
 1. Trigger → **"When an HTTP request is received"**  

@@ -1,4 +1,4 @@
-# Logic-App-Dev-Microsoft-Azure-by-Khoj-Info.-Pvt.-Ltd.
+# Logic-App-Dev (Microsoft-Azure) _by Khoj Info.Pvt. Ltd._
 
 ## Logic App-2
 

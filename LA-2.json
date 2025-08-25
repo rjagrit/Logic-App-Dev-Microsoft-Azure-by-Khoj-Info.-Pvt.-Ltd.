@@ -86,7 +86,7 @@
                                 }
                             },
                             "order_number": {
-                                "type": "string"
+                                "type": "strings"
                             }
                         }
                     }
@@ -95,4 +95,5 @@
         }
     },
     "kind": "Stateful"
+
 }
